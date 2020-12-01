@@ -18,7 +18,7 @@ function FinalOutput({date, ...props}) {
          <br/>
          <br/>
          
-         <h1>Github Repository Link : </h1>
+         <h1>Github Repository Link : https://github.com/AnuragKurapati/IceCream-Delivery </h1>
          <br/>
          
 
