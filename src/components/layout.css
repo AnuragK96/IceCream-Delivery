@@ -1,0 +1,97 @@
+.center-img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    border-radius: 100px;
+}
+.theheader{
+border: 10px solid #f0f0f0 !important;
+height: 120px !important;
+}
+.theform{
+margin-top: 10px;
+border: none;
+}
+.formfields{
+border: 1px solid lightgrey;
+border-radius: 10px;
+height: 50px;
+font-size: 20px;
+width: 90%;
+}
+::-webkit-input-placeholder { /* Edge */
+padding-left: 10px;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+padding-left: 10px;
+}
+
+::placeholder {
+padding-left: 10px;
+}
+.ant-select-selector{
+height: 50px !important;
+border-radius: 10px !important;
+font-size: 20px !important;
+padding-top: 10px !important;
+}
+.message-sty{
+margin-top: 20px;
+width: 95%;
+border-radius: 10px;
+font-size: 20px;
+border: 1px solid lightgray;
+}
+.ant-picker{
+width: 113% !important;
+height: 50px !important;
+border-radius: 10px !important;
+font-size: 20px !important;
+}
+.ant-picker-input > input{
+  font-size: 20px !important;
+}
+.btn-sty{
+margin-top: 20px;
+width: 30%;
+height: 40px;
+border-radius: 10px;
+border: 1px solid gray;
+background-color: #e7272d;
+font-size: 15px;
+color: white;
+}
+.image-sty{
+width: 550px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.ant-modal-content{
+  height: 500px;
+    overflow: auto;
+}
+
+.ant-modal-header{
+  text-align: center;
+}
+
+.ant-avatar{
+  height: 52px;
+  width: 52px;
+}
+
+.errorModal .ant-modal-content{
+  height: 150px;
+}
+
+.errorModal .ant-modal-body{
+  padding: 0px !important;
+}
+
+.ant-alert-error{
+  height: 150px;
+}
